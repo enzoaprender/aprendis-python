@@ -12,4 +12,4 @@ while True:
      print("Muito alto! Tente novamente.")
     else:
         print(f"Parabéns! Você adivinhou o número em {tentativas} tentativas.")
-
+        break
